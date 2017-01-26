@@ -1,2 +1,2 @@
-# symmetrical-garbanzo
-GitHub Classroom Test
+# Symmetrical Garbanzo
+GitHub Classroom Test of Awesomeness
